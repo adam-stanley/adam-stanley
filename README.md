@@ -7,4 +7,4 @@ Privacy is the most important human right.
 - OS Designer
 
 AI does not ***solve*** stupidty, it ***causes*** ignorance.  
-working on secure systems for @shopify @cloudflare @apple @google @nvidia @intel @oracle @aws
+working on secure systems for Apple, Google, Amazon, NVIDIA, Oracle, Shopify, Cloudflare and Many More
